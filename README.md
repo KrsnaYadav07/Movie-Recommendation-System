@@ -46,9 +46,9 @@ Available on [Kaggle](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata).
    - Deployed a simple interface where users can select a movie and view 5 recommendations instantly.
 
 ---
-##🧠 Tech Stack
-1.Python
-2.Pandas
-3.Scikit-learn
-4.Streamlit
-5.TF-IDF
+## 🧠 Tech Stack
+1. Python
+2. Pandas
+3. Scikit-learn
+4. Streamlit
+5. TF-IDF
